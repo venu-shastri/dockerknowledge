@@ -39,9 +39,11 @@ docker tools      | docker for windows
  docker deamon remote | docker deamon local 
  Access Using Ip address | Access using local address
  docker quick start terminal | Any terminal
+
+## Verifying docker installation
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI3MTQyMSwtMjA2NjQ4MTA2NCwxNz
-IzNzM1MDc2LC0xMjY2OTIzODAzLDE5MTk4NTI3NDUsMTE3MzE2
-MTk3MV19
+eyJoaXN0b3J5IjpbNTYwNDU5MzA2LC0xNzcyNzE0MjEsLTIwNj
+Y0ODEwNjQsMTcyMzczNTA3NiwtMTI2NjkyMzgwMywxOTE5ODUy
+NzQ1LDExNzMxNjE5NzFdfQ==
 -->
