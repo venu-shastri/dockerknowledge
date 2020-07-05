@@ -43,11 +43,11 @@ docker tools      | docker for windows
 ## Verifying docker installation
 - Go terminal and type following command
 	- **docker info**
-	- **docker-c
+	- **docker-compose --version**
   
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MjY2ODA0LC0xNzcyNzE0MjEsLTIwNj
-Y0ODEwNjQsMTcyMzczNTA3NiwtMTI2NjkyMzgwMywxOTE5ODUy
-NzQ1LDExNzMxNjE5NzFdfQ==
+eyJoaXN0b3J5IjpbLTE2MjY5MDYyOSwtMTc3MjcxNDIxLC0yMD
+Y2NDgxMDY0LDE3MjM3MzUwNzYsLTEyNjY5MjM4MDMsMTkxOTg1
+Mjc0NSwxMTczMTYxOTcxXX0=
 -->
