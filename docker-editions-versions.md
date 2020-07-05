@@ -8,8 +8,11 @@
 -  Docker Enterprise Edition
    - Mission Critical Apps  
    - Certified Images and plugins
-   - Docker Data 
+   - Docker Data Center
+   - Vulnerability Scans
+   - Official Support
+   -  $750 to $1200 Per year
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTEwNTUxLDExNzMxNjE5NzFdfQ==
+eyJoaXN0b3J5IjpbNjAyMDU3OTExLDExNzMxNjE5NzFdfQ==
 -->
