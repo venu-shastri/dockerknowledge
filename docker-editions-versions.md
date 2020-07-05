@@ -19,9 +19,9 @@
 	- New Release Cycle Every Month
 - Stable Release
 	- New Releases for Every three months
-![enter image description here](https://github.com/venu-shastri/dockerknowledge/blob/master/images.JPG)
+![Version Chart](https://github.com/venu-shastri/dockerknowledge/blob/master/images.JPG)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY5MjM4MDMsMTkxOTg1Mjc0NSwxMT
-czMTYxOTcxXX0=
+eyJoaXN0b3J5IjpbMTcyMzczNTA3NiwtMTI2NjkyMzgwMywxOT
+E5ODUyNzQ1LDExNzMxNjE5NzFdfQ==
 -->
