@@ -36,10 +36,10 @@
 docker tools      | docker for windows 
  -------- | ---
  Need a type 2 Hypervisor | Need a type 1 hyper-v
- Phone | $12  
+ docker deamon remote | docker deamon local 
  Pipe | $1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIzOTc3MjcsLTIwNjY0ODEwNjQsMT
-cyMzczNTA3NiwtMTI2NjkyMzgwMywxOTE5ODUyNzQ1LDExNzMx
-NjE5NzFdfQ==
+eyJoaXN0b3J5IjpbNjk4MzE5NTgxLC0yMDY2NDgxMDY0LDE3Mj
+M3MzUwNzYsLTEyNjY5MjM4MDMsMTkxOTg1Mjc0NSwxMTczMTYx
+OTcxXX0=
 -->
