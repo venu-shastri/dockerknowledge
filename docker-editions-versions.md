@@ -22,8 +22,14 @@
 ![Version Chart](https://github.com/venu-shastri/dockerknowledge/blob/master/images.JPG)
 
 # Installing docker
-### docker toolba
+### docker toolbox
+- docker CE / EE
+- docker compose
+- docker machine
+- virtual box
+- docker quick start terminal
+- kitematic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0NDc1MjcwLDE3MjM3MzUwNzYsLTEyNj
-Y5MjM4MDMsMTkxOTg1Mjc0NSwxMTczMTYxOTcxXX0=
+eyJoaXN0b3J5IjpbLTIwNjY0ODEwNjQsMTcyMzczNTA3NiwtMT
+I2NjkyMzgwMywxOTE5ODUyNzQ1LDExNzMxNjE5NzFdfQ==
 -->
