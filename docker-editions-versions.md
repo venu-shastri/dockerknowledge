@@ -37,9 +37,9 @@ docker tools      | docker for windows
  -------- | ---
  Need a type 2 Hypervisor | Need a type 1 hyper-v
  docker deamon remote | docker deamon local 
- Pipe | $1
+ Access Using Ip address | Access using local address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MzE5NTgxLC0yMDY2NDgxMDY0LDE3Mj
-M3MzUwNzYsLTEyNjY5MjM4MDMsMTkxOTg1Mjc0NSwxMTczMTYx
-OTcxXX0=
+eyJoaXN0b3J5IjpbMTQ0NzkxMTAwNCwtMjA2NjQ4MTA2NCwxNz
+IzNzM1MDc2LC0xMjY2OTIzODAzLDE5MTk4NTI3NDUsMTE3MzE2
+MTk3MV19
 -->
