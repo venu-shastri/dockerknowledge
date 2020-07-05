@@ -15,8 +15,11 @@
 
 ## Docker Versions
 ### Docker CE has Two release channels
-- Edge Relea
+- Edge Release
+	- New Release Cycle Every Month
+- Stable Release
+	- New Releases for Every three months
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTI5NTA1NywxMTczMTYxOTcxXX0=
+eyJoaXN0b3J5IjpbMTkxOTg1Mjc0NSwxMTczMTYxOTcxXX0=
 -->
