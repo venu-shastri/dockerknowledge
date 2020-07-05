@@ -6,8 +6,10 @@
    - Production ready
 	- Opens source
 -  Docker Enterprise Edition
-- 
+   - Mission Critical Apps  
+   - Certified Images and plugins
+   - Docker Data 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQzMTY0ODIsMTE3MzE2MTk3MV19
+eyJoaXN0b3J5IjpbMTgyNTEwNTUxLDExNzMxNjE5NzFdfQ==
 -->
