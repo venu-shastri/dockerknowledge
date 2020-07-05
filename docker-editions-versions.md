@@ -38,8 +38,10 @@ docker tools      | docker for windows
  Need a type 2 Hypervisor | Need a type 1 hyper-v
  docker deamon remote | docker deamon local 
  Access Using Ip address | Access using local address
+ docker quick start terminal | Any terminal
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzkxMTAwNCwtMjA2NjQ4MTA2NCwxNz
+eyJoaXN0b3J5IjpbLTE3NzI3MTQyMSwtMjA2NjQ4MTA2NCwxNz
 IzNzM1MDc2LC0xMjY2OTIzODAzLDE5MTk4NTI3NDUsMTE3MzE2
 MTk3MV19
 -->
