@@ -21,7 +21,9 @@
 	- New Releases for Every three months
 ![Version Chart](https://github.com/venu-shastri/dockerknowledge/blob/master/images.JPG)
 
+# Installing docker
+### docker toolba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzczNTA3NiwtMTI2NjkyMzgwMywxOT
-E5ODUyNzQ1LDExNzMxNjE5NzFdfQ==
+eyJoaXN0b3J5IjpbNTg0NDc1MjcwLDE3MjM3MzUwNzYsLTEyNj
+Y5MjM4MDMsMTkxOTg1Mjc0NSwxMTczMTYxOTcxXX0=
 -->
