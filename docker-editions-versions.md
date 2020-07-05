@@ -32,8 +32,12 @@
 ### docker for windows / mac
 - No Virtual Box is required
 - Uses Hyper - v
+| docker toolbox |  docker for mac |
+|--|--|
+|  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5ODkzMjk0LC0yMDY2NDgxMDY0LDE3Mj
-M3MzUwNzYsLTEyNjY5MjM4MDMsMTkxOTg1Mjc0NSwxMTczMTYx
-OTcxXX0=
+eyJoaXN0b3J5IjpbLTE2MjM2NTM4NTMsLTIwNjY0ODEwNjQsMT
+cyMzczNTA3NiwtMTI2NjkyMzgwMywxOTE5ODUyNzQ1LDExNzMx
+NjE5NzFdfQ==
 -->
