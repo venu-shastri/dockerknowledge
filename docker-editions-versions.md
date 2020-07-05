@@ -41,9 +41,12 @@ docker tools      | docker for windows
  docker quick start terminal | Any terminal
 
 ## Verifying docker installation
+- Go terminal and type following command
+	- do
+  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNDU5MzA2LC0xNzcyNzE0MjEsLTIwNj
-Y0ODEwNjQsMTcyMzczNTA3NiwtMTI2NjkyMzgwMywxOTE5ODUy
-NzQ1LDExNzMxNjE5NzFdfQ==
+eyJoaXN0b3J5IjpbLTQ1NjcyMzU5NiwtMTc3MjcxNDIxLC0yMD
+Y2NDgxMDY0LDE3MjM3MzUwNzYsLTEyNjY5MjM4MDMsMTkxOTg1
+Mjc0NSwxMTczMTYxOTcxXX0=
 -->
