@@ -45,11 +45,11 @@ docker tools      | docker for windows
 	- **docker info**
 	- **docker-compose --version**
 	- **docker run hello-world**
-	- 
+	- **docker run -it alpine sh**
   
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzIyNjQyMywtMTYzMTUzMjY3OCwtMT
+eyJoaXN0b3J5IjpbMTU5NTgzMzQ5MiwtMTYzMTUzMjY3OCwtMT
 YyNjkwNjI5LC0xNzcyNzE0MjEsLTIwNjY0ODEwNjQsMTcyMzcz
 NTA3NiwtMTI2NjkyMzgwMywxOTE5ODUyNzQ1LDExNzMxNjE5Nz
 FdfQ==
