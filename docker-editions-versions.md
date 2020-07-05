@@ -29,9 +29,11 @@
 - virtual box
 - docker quick start terminal
 - kitematic
-- 
+### docker for windows / mac
+- No Virtual Box is required
+- Uses Hyper - v
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDkyMTY0NSwtMjA2NjQ4MTA2NCwxNz
-IzNzM1MDc2LC0xMjY2OTIzODAzLDE5MTk4NTI3NDUsMTE3MzE2
-MTk3MV19
+eyJoaXN0b3J5IjpbNjE5ODkzMjk0LC0yMDY2NDgxMDY0LDE3Mj
+M3MzUwNzYsLTEyNjY5MjM4MDMsMTkxOTg1Mjc0NSwxMTczMTYx
+OTcxXX0=
 -->
