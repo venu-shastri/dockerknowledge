@@ -13,6 +13,10 @@
    - Official Support
    -  $750 to $1200 Per year
 
+## Docker Versions
+### Docker CE has Two release channels
+- Edge Relea
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyMDU3OTExLDExNzMxNjE5NzFdfQ==
+eyJoaXN0b3J5IjpbMTA5NTI5NTA1NywxMTczMTYxOTcxXX0=
 -->
