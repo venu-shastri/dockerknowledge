@@ -1,7 +1,10 @@
 
 # Docker-Editions-Versions
 
+-  Docker Community Edition (free)
+- - Aimed At developers and 
+-  Docker Enterprise Edition
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzE2MTk3MV19
+eyJoaXN0b3J5IjpbMjAwMzMxOTU3MywxMTczMTYxOTcxXX0=
 -->
