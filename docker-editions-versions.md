@@ -32,10 +32,13 @@
 ### docker for windows / mac
 - No Virtual Box is required
 - Uses Hyper - v
-docker 
-
+Item | Value 
+ -------- | ---
+ Computer | $1600
+ Phone | $12  
+ Pipe | $1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjgzMjAwOTAsLTIwNjY0ODEwNjQsMT
+eyJoaXN0b3J5IjpbLTEzMjA4NTA2NDUsLTIwNjY0ODEwNjQsMT
 cyMzczNTA3NiwtMTI2NjkyMzgwMywxOTE5ODUyNzQ1LDExNzMx
 NjE5NzFdfQ==
 -->
