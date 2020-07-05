@@ -35,11 +35,11 @@
 
 docker tools      | docker for windows 
  -------- | ---
- Computer | Need a type 1 hyper-v
+ Need a type 2 Hypervisor | Need a type 1 hyper-v
  Phone | $12  
  Pipe | $1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTI0NzY0MCwtMjA2NjQ4MTA2NCwxNz
-IzNzM1MDc2LC0xMjY2OTIzODAzLDE5MTk4NTI3NDUsMTE3MzE2
-MTk3MV19
+eyJoaXN0b3J5IjpbLTEzNDIzOTc3MjcsLTIwNjY0ODEwNjQsMT
+cyMzczNTA3NiwtMTI2NjkyMzgwMywxOTE5ODUyNzQ1LDExNzMx
+NjE5NzFdfQ==
 -->
