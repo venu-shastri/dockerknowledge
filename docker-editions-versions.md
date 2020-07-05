@@ -45,10 +45,12 @@ docker tools      | docker for windows
 	- **docker info**
 	- **docker-compose --version**
 	- **docker run hello-world**
+	- 
   
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE1MzI2NzgsLTE2MjY5MDYyOSwtMT
-c3MjcxNDIxLC0yMDY2NDgxMDY0LDE3MjM3MzUwNzYsLTEyNjY5
-MjM4MDMsMTkxOTg1Mjc0NSwxMTczMTYxOTcxXX0=
+eyJoaXN0b3J5IjpbMTAzMzIyNjQyMywtMTYzMTUzMjY3OCwtMT
+YyNjkwNjI5LC0xNzcyNzE0MjEsLTIwNjY0ODEwNjQsMTcyMzcz
+NTA3NiwtMTI2NjkyMzgwMywxOTE5ODUyNzQ1LDExNzMxNjE5Nz
+FdfQ==
 -->
